@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshil Patel</h1>
 <h3 align="center">A dedicated computer engineering student from India with a strong passion for development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshil0109&label=Profile%20views&color=0e75b6&style=flat" alt="darshil0109" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development and Machine learning**
 
