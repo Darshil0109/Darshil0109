@@ -6,7 +6,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **darshil01092004@gmail.com**
+- 📫 How to reach me 👉 **darshil01092004@gmail.com**
+
+- 🌐 My Portfolio 👉 [**Darshil0109**](https://darshil0109.github.io/portfolio_darshil0109/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
